@@ -14,4 +14,4 @@ Program ini dikerjakan oleh :
 4. Lihat Riwayat Parkir
 5. Keluar sistem
 
-Program sederhana ini dibuat untuk memenuhi tugas besar mata kuliah Berpikir Komputasional pada semester ganjil tahun 2024/2025.
+Program sederhana ini dibuat untuk memenuhi Tugas Besar Mata Kuliah Berpikir Komputasional pada Semester Ganjil Tahun 2024/2025.
